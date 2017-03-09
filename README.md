@@ -10,6 +10,6 @@ Step2:
 Step3:
   use it in your component you need to make it sticky
   
-  <StickyContainer>
+ <StickyContainer>
     <.....what you want to make it sticky>
   </StickContainer>
